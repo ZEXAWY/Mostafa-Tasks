@@ -16,7 +16,7 @@ function AlbumComponent() {
 
   return (
     <div className='p-5'>
-      <h1 className='text-2xl text-center'>Albums</h1>
+      <h1 className='text-2xl text-center m-5'>Albums</h1>
       {/* <ul>
         {albums.map((album) => (
           <div className='border-black border-2 rounded-md m-2 p-2'>
