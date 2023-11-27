@@ -11,7 +11,7 @@ function App() {
       <div className='h-16 px-6'></div>
       {/* Body component */}
       <MainComponentLayout />
-      <div> adding something useful</div>
+
       {/* footer component */}
     </div>
   );
