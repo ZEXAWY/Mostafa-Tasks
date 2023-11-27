@@ -13,7 +13,6 @@ function App() {
       <MainComponentLayout />
       <div> adding something useful</div>
       {/* footer component */}
-      <div>how are you?</div>
     </div>
   );
 }
