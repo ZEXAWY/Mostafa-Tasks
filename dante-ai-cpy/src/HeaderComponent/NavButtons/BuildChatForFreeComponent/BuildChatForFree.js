@@ -5,7 +5,7 @@ const BuildChatForFreeComponent = (props) => {
     <div>
       <a
         href='/login'
-        className='inline-flex items-center justify-center relative box-border bg-transparent cursor-pointer px-4 py-2 border bg-gray-950 rounded-md text-white text-sm font-bold'
+        className='inline-flex items-center justify-center relative box-border bg-transparent cursor-pointer px-4 py-2 border bg-gray-800 rounded-md text-white text-sm font-bold'
       >
         Build a chatbot for
       </a>

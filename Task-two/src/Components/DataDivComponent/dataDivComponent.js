@@ -4,7 +4,7 @@ function RandomUserComponent() {
   const [userList, setUserList] = useState([]);
 
   useEffect(() => {
-    fetch('https://randomuser.me/api/?results=8')
+    fetch('https://randomuser.me/api/?results=4')
       .then((response) => response.json())
       .then((data) => {
         console.log(data);

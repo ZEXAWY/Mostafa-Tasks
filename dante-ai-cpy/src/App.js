@@ -1,6 +1,7 @@
 import './App.css';
 import HeaderComponent from './HeaderComponent/HeaderComponent';
 import MainComponentLayout from './MainComponent/MainComponentLayout';
+import FooterComponent from './MainComponent/FooterComponent/FooterComponent';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <MainComponentLayout />
 
       {/* footer component */}
+      <FooterComponent />
     </div>
   );
 }
